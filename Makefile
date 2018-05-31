@@ -1,4 +1,4 @@
-PROJECT?=github.com/rumyantseva/gophercon
+PROJECT?=github.com/hrafn/gophercon2018
 APP?=gophercon
 PORT?=8000
 
